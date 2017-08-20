@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Flash"
 teaching: 15
-exercises: 15
+exercises: 0
 questions:
 - "How can I use scikit learn to apply machine learning?"
 objectives:
