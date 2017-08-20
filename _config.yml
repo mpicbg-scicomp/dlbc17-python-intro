@@ -9,7 +9,7 @@ carpentry: "swc"
 title: "Programming with Python"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: steinbac@mpi-cbg.de
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -31,8 +31,8 @@ swc_pages: "https://swcarpentry.github.io"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://git.mpi-cbg.de/steinbac/deeplearningbootcamp2017-python-intro"
+workshop_site: "https://idisk.mpi-cbg.de/~steinbac/deeplearningbootcamp2017-python-intro"
 training_site: "https://swcarpentry.github.io/instructor-training"
 
 # Surveys.
@@ -40,7 +40,7 @@ pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
 post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am)
-start_time: 0
+start_time: 780
 
 # Specify that things in the episodes collection should be output.
 collections:
